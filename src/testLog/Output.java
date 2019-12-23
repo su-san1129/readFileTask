@@ -2,8 +2,8 @@ package testLog;
 
 public class Output {
 	public static void main(String[] args) {
-		Test test = new Test();
-		test.txtOutput();
+		Test2 test = new Test2();
+		test.outputText();
 	}
 
 }
